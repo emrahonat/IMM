@@ -1,9 +1,6 @@
 %% PRI Modulation Recognition and Parameter Estimation
 %
 %
-% Interacting Multiple Model Kalman Filters for Pulse Repetition Interval 
-% Value Estimation and Modulation Recognition in Electromagnetic Warfare Systems
-%
 %
 % Dr. Emrah Onat
 % 01.01.2026
