@@ -1,6 +1,5 @@
 ==============================================================================
-Interacting Multiple Model Kalman Filters for Pulse Repetition Interval 
-Value Estimation and Modulation Recognition in Electromagnetic Warfare Systems
+IMMKF
 ==============================================================================
 
 Abstract
@@ -9,16 +8,11 @@ Abstract
 
 Keywords
 --------
-Radar, Pulse Repetition Interval (PRI), Interacting Multiple Model (IMM), Kalman Filter (KF), 
-Range Gate Stealing (RGS), Range Gate Pull In (RGPI), Electromagnetic Warfare (EW).
+
 
 Citation
 --------
 If you use or refer to this work, please cite the forthcoming paper once it is published.
-
-Onat, E. Interacting Multiple Model Kalman Filters for Pulse Repetition Interval 
-Value Estimation and Modulation Recognition in Electromagnetic Warfare Systems. 
-Signal, Image and Video Processing XX, AAAA–BBBB (2026). https://doi.org/10.1007/s11760-023-02958-5
 
 
 
