@@ -1,5 +1,6 @@
 Interacting Multiple Model Kalman Filters for Pulse Repetition Interval Value Estimation and Modulation Recognition in Electromagnetic Warfare Systems
-----------------------------------------
+--------------------------------
+
 
 Abstract
 --------
@@ -22,19 +23,18 @@ Overview
 ---------
 This repository currently includes only the main.m file.
 The purpose of this file is to provide an overview of the academic work and its implementation framework.
-All MATLAB files related to the modulation recognition and parameter estimation algorithms developed in this study will be uploaded after the corresponding paper is accepted for publication.
+All MATLAB files related to the modulation recognition and parameter estimation algorithms developed in this study will be uploaded.
 
 
 Contents
 --------
 main.m: Demonstrates the general structure of the PRI modulation generations.
-Additional MATLAB scripts and functions will be made publicly available after the paper’s acceptance.
+Additional MATLAB scripts and functions will be made publicly available.
 
 
 Usage
 -----
 The current code is intended for demonstration purposes only.
-After the paper is accepted and the full implementation is released, all scripts may be used freely for academic and non-commercial research, provided that proper citation is given.
 
 
 License
