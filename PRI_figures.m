@@ -1,9 +1,14 @@
-%% PRI Modulation Recognition and Parameter Estimation
-%
+%% Interacting Multiple Model Kalman Filters
 %
 %
 % Dr. Emrah Onat
 % 01.01.2026
+%
+%
+% Citation:
+%
+% Onat, E. Interacting Multiple Model Kalman Filters for Pulse Repetition Interval Value Estimation and Modulation Recognition 
+% in Electromagnetic Warfare Systems. SIViP 20, 7 (2026). https://doi.org/10.1007/s11760-025-05077-5
 
 
 function [output] = PRI_figures(missing_prob)
